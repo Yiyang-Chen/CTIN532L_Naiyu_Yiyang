@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BackGround
+  - Ship
+  - Wall
+  - Fish
+  - SpaceStorm
+  - EnergyWall
+  - ErosionCloud
+  - DefensiveWeapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1607525503
+    locked: 0
+  - name: DecreaseCircleTopLayer
+    uniqueID: 4137069481
+    locked: 0
+  - name: DecreaseCircleBottomLayer
+    uniqueID: 711300413
+    locked: 0
+  - name: HookingCircleTopLayer
+    uniqueID: 2456817125
+    locked: 0
+  - name: HookingCircleBottomLayer
+    uniqueID: 3594380689
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FishSkill
+    uniqueID: 2998457773
+    locked: 0
+  - name: HookingPlayer
+    uniqueID: 242518131
+    locked: 0
+  - name: ShipRod
+    uniqueID: 927778955
+    locked: 0
+  - name: HookingFish
+    uniqueID: 2579936177
+    locked: 0
+  - name: Ship
+    uniqueID: 1524331649
+    locked: 0
+  - name: Fish
+    uniqueID: 3859323133
+    locked: 0
+  - name: Top
+    uniqueID: 3943936727
+    locked: 0

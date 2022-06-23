@@ -1,0 +1,234 @@
+Variable name,Time in Play,Data Point
+fRoomClicked,0:1.62,(1422.0, 412.0, 0.0)
+fRoomClicked,0:2.12,(1425.0, 413.0, 0.0)
+fRoomClicked,0:2.51,(1826.0, 418.0, 0.0)
+collectionRoomClicked,0:4.81,(584.0, 681.0, 0.0)
+fRoomClicked,0:5.56,(640.0, 912.0, 0.0)
+fRoomClicked,0:5.82,(782.0, 761.0, 0.0)
+fRoomClicked,0:6.03,(903.0, 563.0, 0.0)
+fRoomClicked,0:6.21,(1060.0, 300.0, 0.0)
+fRoomClicked,0:6.43,(1488.0, 262.0, 0.0)
+fRoomClicked,0:6.78,(1466.0, 422.0, 0.0)
+fRoomClicked,0:7.01,(1189.0, 455.0, 0.0)
+waitingFishWaitTime,0:7.88,4.711544
+waitingClickedPosition0,0:8.74,(-3.8, -0.7, 0.0)
+waitingClickedVelocity0,0:8.74,(-0.2, 0.5)
+waitingClickedPosition1,0:8.74,(-2.4, -0.6, 0.0)
+waitingClickedVelocity1,0:8.74,(-0.5, 0.0)
+waitingClickedPosition2,0:8.74,(-0.9, -1.8, 0.0)
+waitingClickedVelocity2,0:8.74,(-0.5, -0.1)
+waitingClickedPosition3,0:8.74,(-1.5, 2.2, 0.0)
+waitingClickedVelocity3,0:8.74,(-0.2, -0.5)
+waitingClickedPosition4,0:8.74,(-0.1, 2.1, 0.0)
+waitingClickedVelocity4,0:8.74,(-0.4, -0.3)
+waitingClickedPosition0,0:8.91,(-3.8, -0.6, 0.0)
+waitingClickedVelocity0,0:8.91,(-0.2, 0.5)
+waitingClickedPosition1,0:8.91,(-2.5, -0.6, 0.0)
+waitingClickedVelocity1,0:8.91,(-0.5, 0.0)
+waitingClickedPosition2,0:8.91,(-1.0, -1.8, 0.0)
+waitingClickedVelocity2,0:8.91,(-0.5, -0.1)
+waitingClickedPosition3,0:8.91,(-1.5, 2.1, 0.0)
+waitingClickedVelocity3,0:8.91,(-0.2, -0.5)
+waitingClickedPosition4,0:8.91,(-0.2, 2.1, 0.0)
+waitingClickedVelocity4,0:8.91,(-0.4, -0.3)
+waitingClickedPosition0,0:9.26,(-3.6, -0.5, 0.0)
+waitingClickedVelocity0,0:9.26,(1.0, 0.1)
+waitingClickedPosition1,0:9.26,(-2.7, -0.6, 0.0)
+waitingClickedVelocity1,0:9.26,(-0.4, -0.2)
+waitingClickedPosition2,0:9.26,(-1.2, -1.8, 0.0)
+waitingClickedVelocity2,0:9.26,(-0.5, 0.0)
+waitingClickedPosition3,0:9.26,(-1.6, 1.9, 0.0)
+waitingClickedVelocity3,0:9.26,(-0.2, -0.5)
+waitingClickedPosition4,0:9.26,(-0.4, 2.1, 0.0)
+waitingClickedVelocity4,0:9.26,(-0.5, 0.1)
+waitingClickedPosition0,0:9.44,(-3.4, -0.5, 0.0)
+waitingClickedVelocity0,0:9.44,(1.0, 0.1)
+waitingClickedPosition1,0:9.44,(-2.8, -0.7, 0.0)
+waitingClickedVelocity1,0:9.44,(-0.4, -0.2)
+waitingClickedPosition2,0:9.44,(-1.3, -1.8, 0.0)
+waitingClickedVelocity2,0:9.44,(-0.5, 0.0)
+waitingClickedPosition3,0:9.44,(-1.7, 1.9, 0.0)
+waitingClickedVelocity3,0:9.44,(-0.2, -0.4)
+waitingClickedPosition4,0:9.44,(-0.5, 2.1, 0.0)
+waitingClickedVelocity4,0:9.44,(-0.5, 0.1)
+waitingClickedPosition0,0:9.64,(-3.2, -0.5, 0.0)
+waitingClickedVelocity0,0:9.64,(1.0, 0.1)
+waitingClickedPosition1,0:9.64,(-2.9, -0.7, 0.0)
+waitingClickedVelocity1,0:9.64,(-0.4, -0.2)
+waitingClickedPosition2,0:9.64,(-1.4, -1.8, 0.0)
+waitingClickedVelocity2,0:9.64,(-0.5, 0.0)
+waitingClickedPosition3,0:9.64,(-1.7, 1.8, 0.0)
+waitingClickedVelocity3,0:9.64,(-0.2, -0.4)
+waitingClickedPosition4,0:9.64,(-0.6, 2.1, 0.0)
+waitingClickedVelocity4,0:9.64,(-0.5, 0.1)
+waitingClickedPosition0,0:9.83,(-3.0, -0.4, 0.0)
+waitingClickedVelocity0,0:9.83,(1.0, 0.1)
+waitingClickedPosition1,0:9.83,(-2.9, -0.7, 0.0)
+waitingClickedVelocity1,0:9.83,(0.4, 0.2)
+waitingClickedPosition2,0:9.83,(-1.5, -1.8, 0.0)
+waitingClickedVelocity2,0:9.83,(-0.5, 0.0)
+waitingClickedPosition3,0:9.83,(-1.7, 1.7, 0.0)
+waitingClickedVelocity3,0:9.83,(-0.2, -0.4)
+waitingClickedPosition4,0:9.83,(-0.6, 2.1, 0.0)
+waitingClickedVelocity4,0:9.83,(-0.5, 0.1)
+waitingClickedPosition0,0:10.05,(-2.8, -0.4, 0.0)
+waitingClickedVelocity0,0:10.05,(1.0, 0.1)
+waitingClickedPosition1,0:10.05,(-2.8, -0.7, 0.0)
+waitingClickedVelocity1,0:10.05,(0.4, 0.2)
+waitingClickedPosition2,0:10.05,(-1.6, -1.8, 0.0)
+waitingClickedVelocity2,0:10.05,(-0.5, 0.0)
+waitingClickedPosition3,0:10.05,(-1.8, 1.6, 0.0)
+waitingClickedVelocity3,0:10.05,(-0.2, -0.4)
+waitingClickedPosition4,0:10.05,(-0.7, 2.1, 0.0)
+waitingClickedVelocity4,0:10.05,(-0.5, 0.1)
+waitingClickedPosition0,0:10.25,(-2.6, -0.4, 0.0)
+waitingClickedVelocity0,0:10.25,(1.0, 0.1)
+waitingClickedPosition1,0:10.25,(-2.7, -0.6, 0.0)
+waitingClickedVelocity1,0:10.25,(0.4, 0.2)
+waitingClickedPosition2,0:10.25,(-1.7, -1.8, 0.0)
+waitingClickedVelocity2,0:10.25,(-0.1, 0.5)
+waitingClickedPosition3,0:10.25,(-1.8, 1.5, 0.0)
+waitingClickedVelocity3,0:10.25,(-0.2, -0.4)
+waitingClickedPosition4,0:10.25,(-0.8, 2.1, 0.0)
+waitingClickedVelocity4,0:10.25,(-0.5, 0.1)
+waitingClickedPosition0,0:12.83,(-0.2, 0.0, 0.0)
+waitingClickedVelocity0,0:12.83,(1.4, 0.0)
+waitingClickedPosition1,0:12.83,(-1.9, -0.3, 0.0)
+waitingClickedVelocity1,0:12.83,(1.0, 0.1)
+waitingClickedPosition2,0:12.83,(-1.0, -0.6, 0.0)
+waitingClickedVelocity2,0:12.83,(-0.5, -0.1)
+waitingClickedPosition3,0:12.83,(-1.8, 1.2, 0.0)
+waitingClickedVelocity3,0:12.83,(0.8, -0.6)
+waitingClickedPosition4,0:12.83,(-1.1, 1.5, 0.0)
+waitingClickedVelocity4,0:12.83,(0.6, -0.8)
+ProcessBarValue,0:14.13,1.066709
+ProcessBarValue,0:14.23,1.166862
+ProcessBarValue,0:14.33,1.266957
+ProcessBarValue,0:14.43,1.216931
+ProcessBarValue,0:14.53,1.166897
+ProcessBarValue,0:14.63,1.116872
+ProcessBarValue,0:14.73,1.066787
+ProcessBarValue,0:14.83,1.016752
+ProcessBarValue,0:14.95,0.9584142
+ProcessBarValue,0:15.05,0.9083456
+ProcessBarValue,0:15.15,0.858268
+ProcessBarValue,0:15.25,0.8082299
+ProcessBarValue,0:15.35,0.7582184
+ProcessBarValue,0:15.45,0.7082133
+ProcessBarValue,0:15.55,0.6581332
+ProcessBarValue,0:15.65,0.6081265
+ProcessBarValue,0:15.75,0.5580653
+ProcessBarValue,0:15.85,0.5080169
+ProcessBarValue,0:15.95,0.4579339
+ProcessBarValue,0:16.05,0.4329044
+ProcessBarValue,0:16.15,0.5329649
+ProcessBarValue,0:16.25,0.6330262
+ProcessBarValue,0:16.35,0.7331409
+ProcessBarValue,0:16.45,0.8332033
+ProcessBarValue,0:16.55,0.9332731
+ProcessBarValue,0:16.65,0.9583613
+ProcessBarValue,0:16.75,0.9083447
+ProcessBarValue,0:16.87,0.9749673
+ProcessBarValue,0:16.97,1.07517
+ProcessBarValue,0:17.08,1.191781
+ProcessBarValue,0:17.20,1.308426
+ProcessBarValue,0:17.32,1.42507
+ProcessBarValue,0:17.43,1.391743
+ProcessBarValue,0:17.55,1.333421
+ProcessBarValue,0:17.67,1.275098
+ProcessBarValue,0:17.78,1.216776
+ProcessBarValue,0:17.90,1.158454
+ProcessBarValue,0:18.02,1.150122
+ProcessBarValue,0:18.13,1.266767
+ProcessBarValue,0:18.25,1.383412
+ProcessBarValue,0:18.37,1.350084
+ProcessBarValue,0:18.48,1.291762
+ProcessBarValue,0:18.60,1.23344
+ProcessBarValue,0:18.72,1.175117
+ProcessBarValue,0:18.83,1.116795
+ProcessBarValue,0:18.95,1.058472
+ProcessBarValue,0:19.07,1.025145
+ProcessBarValue,0:19.18,1.14179
+ProcessBarValue,0:19.30,1.258435
+ProcessBarValue,0:19.42,1.37508
+ProcessBarValue,0:19.52,1.475061
+ProcessBarValue,0:19.62,1.577752
+ProcessBarValue,0:19.72,1.677852
+ProcessBarValue,0:19.82,1.777904
+ProcessBarValue,0:19.92,1.878063
+ProcessBarValue,0:20.02,1.978101
+ProcessBarValue,0:20.12,2.078216
+ProcessBarValue,0:20.22,2.178256
+ProcessBarValue,0:20.34,2.295042
+ProcessBarValue,0:20.44,2.395158
+ProcessBarValue,0:20.54,2.49517
+ProcessBarValue,0:20.64,2.595307
+ProcessBarValue,0:20.74,2.695382
+ProcessBarValue,0:20.84,2.795408
+ProcessBarValue,0:20.94,2.895473
+ProcessBarValue,0:21.04,2.99562
+ProcessBarValue,0:21.14,3.095744
+ProcessBarValue,0:21.24,3.195752
+ProcessBarValue,0:21.34,3.270725
+ProcessBarValue,0:21.44,3.220642
+ProcessBarValue,0:21.54,3.170617
+ProcessBarValue,0:21.64,3.120588
+ProcessBarValue,0:21.74,3.07057
+ProcessBarValue,0:21.84,3.020503
+ProcessBarValue,0:21.96,2.96215
+ProcessBarValue,0:22.06,2.912055
+ProcessBarValue,0:22.16,2.862018
+ProcessBarValue,0:22.26,2.962088
+ProcessBarValue,0:22.36,3.062086
+ProcessBarValue,0:22.46,3.162202
+ProcessBarValue,0:22.56,3.262348
+ProcessBarValue,0:22.66,3.362396
+ProcessBarValue,0:22.76,3.462503
+ProcessBarValue,0:22.86,3.562484
+ProcessBarValue,0:22.96,3.662615
+ProcessBarValue,0:23.06,3.662576
+ProcessBarValue,0:23.16,3.612531
+ProcessBarValue,0:23.26,3.712585
+ProcessBarValue,0:23.36,3.812641
+ProcessBarValue,0:23.46,3.887711
+ProcessBarValue,0:23.57,3.829388
+ProcessBarValue,0:23.67,3.779293
+ProcessBarValue,0:23.77,3.729264
+ProcessBarValue,0:23.87,3.679204
+ProcessBarValue,0:23.97,3.629214
+ProcessBarValue,0:24.07,3.579183
+ProcessBarValue,0:24.17,3.529113
+ProcessBarValue,0:24.27,3.479069
+ProcessBarValue,0:24.37,3.429029
+ProcessBarValue,0:24.47,3.37899
+ProcessBarValue,0:24.57,3.40418
+ProcessBarValue,0:24.67,3.504209
+ProcessBarValue,0:24.77,3.604297
+ProcessBarValue,0:24.87,3.704391
+ProcessBarValue,0:24.97,3.804468
+ProcessBarValue,0:25.07,3.904561
+ProcessBarValue,0:25.19,4.021261
+ProcessBarValue,0:25.29,4.121423
+ProcessBarValue,0:25.39,4.22148
+ProcessBarValue,0:25.49,4.321569
+ProcessBarValue,0:25.59,4.421671
+ProcessBarValue,0:25.69,4.521727
+ProcessBarValue,0:25.79,4.621788
+ProcessBarValue,0:25.89,4.721922
+ProcessBarValue,0:25.99,4.696875
+ProcessBarValue,0:26.09,4.64683
+ProcessBarValue,0:26.19,4.596815
+ProcessBarValue,0:26.29,4.546745
+ProcessBarValue,0:26.39,4.496745
+ProcessBarValue,0:26.49,4.446681
+ProcessBarValue,0:26.59,4.496749
+ProcessBarValue,0:26.69,4.596788
+ProcessBarValue,0:26.79,4.696842
+ProcessBarValue,0:26.89,4.671782
+ProcessBarValue,0:26.99,4.646824
+ProcessBarValue,0:27.09,4.746925
+ProcessBarValue,0:27.19,4.847035
+ProcessBarValue,0:27.29,4.947094
+fRoomClicked,0:28.43,(194.0, 257.0, 0.0)
+systemRoomClicked,0:30.63,(1522.0, 435.0, 0.0)
+systemRoomClicked,0:32.41,(2104.0, 406.0, 0.0)
